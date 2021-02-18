@@ -5,3 +5,5 @@
 * When the image elements are viewed, you will find alt attributes
 * When the heading attribues are viewed, they fall in sequential order
 * When the title element is viewed, you will find that it is descriptive and consice.
+
+https://polodre.github.io/week_one/
